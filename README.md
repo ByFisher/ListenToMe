@@ -1,7 +1,7 @@
 # 🎵 ListenToMe - Real-Time Spotify Last 10 Tracks Tracker
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Yigit%20Tekis-blueviolet?style=for-the-badge" alt="Author">
+  <img src="https://img.shields.io/badge/Author-Taha Yiğittürk%20Tekiş-blueviolet?style=for-the-badge" alt="Author">
   <img src="https://img.shields.io/badge/Python-3.12+-blue.svg?style=for-the-badge" alt="Python Version">
   <img src="https://img.shields.io/badge/API-Spotify%20Web%20API-1DB954.svg?style=for-the-badge" alt="Spotify API">
 </p>
